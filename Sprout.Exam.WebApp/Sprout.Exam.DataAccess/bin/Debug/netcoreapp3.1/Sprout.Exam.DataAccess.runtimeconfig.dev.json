@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\druca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\druca\\.nuget\\packages"
+    ]
+  }
+}
